@@ -5,6 +5,7 @@ import '@/style.css'
 
 <template>
   <span class="dark">
+    <!-- <span class=""> -->
     <div class="dark:bg-gray-900 min-h-screen">
       <RouterView />
     </div>
